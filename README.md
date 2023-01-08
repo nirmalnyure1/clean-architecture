@@ -8,6 +8,8 @@ proper use of functional programming in dart (use of Either and Equitable)
 
 Clean architecture include features where as each feature include
 three layers
+    
+    
     Data
         -DataSource
         -Model
